@@ -16,3 +16,28 @@ body {
 
 #content {
 }
+
+#content * {
+}
+
+.fa-twitter {
+    color:#292f33;
+}
+
+.fa-twitter:hover {
+    color:#55acee;
+}
+
+.fa-github {
+    color:#333333;
+}
+
+.fa-github:hover {
+    color:#4078c0;
+}
+
+/*
+green:  #6cc644
+red:    #bd2c00
+purple: #6e5494
+*/
