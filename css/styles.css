@@ -20,19 +20,19 @@ body {
 #content * {
 }
 
-.fa-twitter {
+.twitter-link {
     color:#292f33;
 }
 
-.fa-twitter:hover {
+.twitter-link:hover {
     color:#55acee;
 }
 
-.fa-github {
+.github-link {
     color:#333333;
 }
 
-.fa-github:hover {
+.github-link:hover {
     color:#4078c0;
 }
 
