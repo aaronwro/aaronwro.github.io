@@ -1,5 +1,5 @@
 # Aaron Wroblewski 
-This is my personal site. Live @ http://aaronw.ro/ and https://aaronwro.github.io/
+This is my personal site. Live @ https://aaronwro.github.io/
 
 ## Running it locally 
 ```Shell
