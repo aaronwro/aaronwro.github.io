@@ -20,6 +20,14 @@ body {
 #content * {
 }
 
+.instagram-link {
+    color:#333333;
+}
+
+.instagram-link:hover {
+    color:#8a3ab9;
+}
+
 .twitter-link {
     color:#292f33;
 }
