@@ -12,12 +12,17 @@ body {
 
 #header * {
     display:inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #content {
+    font-size: 50%;
 }
 
 #content * {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .instagram-link {
@@ -26,6 +31,14 @@ body {
 
 .instagram-link:hover {
     color:#8a3ab9;
+}
+
+.linkedin-link {
+    color:#333333;
+}
+
+.linkedin-link:hover {
+    color:#0e76a8;
 }
 
 .twitter-link {
